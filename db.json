@@ -1,0 +1,18 @@
+{
+	"Products": [{
+		"name": "Samsung",
+		"price": 799,
+		"description": "A large phone with one of the best screens",
+		"class": "buttonFlat gray vodafone"
+	}, {
+		"name": "I-Phone",
+		"price": 699,
+		"description": "A great phone with one of the best cameras",
+		"class": "buttonFlat gray tim"
+	}, {
+		"name": "Huawei",
+		"price": 299,
+		"description": "aaa bbb",
+		"class": "buttonFlat gray nexi"
+	}]
+}

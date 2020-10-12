@@ -1,5 +1,5 @@
 {
-	"0": [{
+	"0": {
 		"anagrafica": [{
 			"id": 7330823,
 			"nome": "Pinco",
@@ -30,8 +30,8 @@
 		"documento": [{}],
 		"campagna": [{}],
 		"simulatori": [{}]
-	}],
-	"1": [{
+	},
+	"1": {
 		"anagrafica": [{
 			"id": 9104362,
 			"nome": "STEFANIA",
@@ -70,5 +70,5 @@
 		"documento": [{}],
 		"campagna": [{}],
 		"simulatori": [{}]
-	}]
+	}
 }

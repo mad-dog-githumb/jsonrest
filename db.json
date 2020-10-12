@@ -20,19 +20,19 @@
 			"professione": {},
 			"nucleoFamiliare": {}
 		},
-		"datiAgenzia": [{}],
-		"consensi": [{
+		"datiAgenzia": {},
+		"consensi": {
 			"privacyCommerciale": 997,
 			"privacyTelefono": 997,
 			"privacyEmailSMS": 997,
 			"fea": false
-		}],
-		"documento": [{}],
-		"campagna": [{}],
-		"simulatori": [{}]
+		},
+		"documento": {},
+		"campagna": {},
+		"simulatori": {}
 	},
 	"1": {
-		"anagrafica": [{
+		"anagrafica": {
 			"id": 9104362,
 			"nome": "STEFANIA",
 			"cognome": "ACQUARELLI",
@@ -55,20 +55,20 @@
 				"codiceProfessioneSAG": "9"
 			},
 			"nucleoFamiliare": {}
-		}],
-		"datiAgenzia": [{}],
-		"consensi": [{
+		},
+		"datiAgenzia": {},
+		"consensi": {
 			"privacyCommerciale": 1,
 			"privacyTelefono": 1,
 			"privacyEmailSMS": 1,
 			"fea": false
-		}],
-		"nucleoFamiliare": [{
+		},
+		"nucleoFamiliare": {
 			"codiceStatoCivile": "02",
 			"numeroFigli": 8
-		}],
-		"documento": [{}],
-		"campagna": [{}],
-		"simulatori": [{}]
+		},
+		"documento": {},
+		"campagna": {},
+		"simulatori": {}
 	}
 }

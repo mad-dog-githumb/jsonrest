@@ -1,5 +1,5 @@
 {
-	"persona-01": [{
+	"1": [{
 		"anagrafica": [{
 			"id": 7330823,
 			"nome": "Pinco",
@@ -31,7 +31,7 @@
 		"campagna": [{}],
 		"simulatori": [{}]
 	}],
-	"persona-02": [{
+	"2": [{
 		"anagrafica": [{
 			"id": 9104362,
 			"nome": "STEFANIA",

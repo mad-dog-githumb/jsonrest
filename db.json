@@ -25,9 +25,9 @@
 			"privacyCommerciale": 997,
 			"privacyTelefono": 997,
 			"privacyEmailSMS": 997,
-			"fea": false,
+			"fea": false
 		},
-		"documento": {"numeroFigli": 8},
+		"documento": {},
 		"campagna": {},
 		"simulatori": {}
 	},
@@ -54,7 +54,10 @@
 				"codiceSettore": "115",
 				"codiceProfessioneSAG": "9"
 			},
-			"nucleoFamiliare": {}
+			"nucleoFamiliare": {
+				"codiceStatoCivile": "02",
+				"numeroFigli": 8
+			}
 		},
 		"datiAgenzia": {},
 		"consensi": {
@@ -62,10 +65,6 @@
 			"privacyTelefono": 1,
 			"privacyEmailSMS": 1,
 			"fea": false
-		},
-		"nucleoFamiliare": {
-			"codiceStatoCivile": "02",
-			"numeroFigli": 8
 		},
 		"documento": {},
 		"campagna": {},

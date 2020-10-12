@@ -1,0 +1,74 @@
+{
+	"persona-01": [{
+		"anagrafica": [{
+			"id": 7330823,
+			"nome": "RAFFAELLA",
+			"cognome": "ADIGETTI",
+			"dataNascita": -374979600000,
+			"codiceFiscale": "DGTRFL58B53E810W",
+			"codiceSesso": "F",
+			"telefonoCellulare": "",
+			"telefonoFisso": "589576",
+			"email": "r.adigetti@gmail.com",
+			"residenza": {
+				"descrizioneVia": "VIA ALBERTO LA ROCCA 47",
+				"numeroCivico": "",
+				"descrizioneComune": "MAGLIANO IN TOSCANA",
+				"siglaProvincia": "GR",
+				"codiceCAP": 58051
+			},
+			"professione": {},
+			"nucleoFamiliare": {}
+		}],
+		"datiAgenzia": [{}],
+		"consensi": [{
+			"privacyCommerciale": 997,
+			"privacyTelefono": 997,
+			"privacyEmailSMS": 997,
+			"fea": false
+		}],
+		"documento": [{}],
+		"campagna": [{}],
+		"simulatori": [{}]
+	}],
+	"persona-02": [{
+		"anagrafica": [{
+			"id": 9104362,
+			"nome": "STEFANIA",
+			"cognome": "ACQUARELLI",
+			"dataNascita": -19184400000,
+			"codiceFiscale": "CQRSFN69E64E202F",
+			"codiceSesso": "F",
+			"telefonoCellulare": "",
+			"telefonoFisso": "589576",
+			"email": "BRIGANTINI93@GMAIL.COM",
+			"residenza": {
+				"descrizioneVia": "LOCALITA' SANT ANTONIO 28",
+				"numeroCivico": "28",
+				"descrizioneComune": "CAMPAGNATICO",
+				"siglaProvincia": "GR",
+				"codiceCAP": 58042
+			},
+			"professione": {
+				"codiceTitoloDiStudio": "03",
+				"codiceSettore": "115",
+				"codiceProfessioneSAG": "9"
+			},
+			"nucleoFamiliare": {}
+		}],
+		"datiAgenzia": [{}],
+		"consensi": [{
+			"privacyCommerciale": 1,
+			"privacyTelefono": 1,
+			"privacyEmailSMS": 1,
+			"fea": false
+		}],
+		"nucleoFamiliare": [{
+			"codiceStatoCivile": "02",
+			"numeroFigli": 8
+		}],
+		"documento": [{}],
+		"campagna": [{}],
+		"simulatori": [{}]
+	}]
+}

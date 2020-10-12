@@ -25,8 +25,7 @@
 			"privacyCommerciale": 997,
 			"privacyTelefono": 997,
 			"privacyEmailSMS": 997,
-			"fea": false,
-			"numeroFigli": 8
+			"fea": false
 		},
 		"documento": {},
 		"campagna": {},
@@ -62,7 +61,8 @@
 			"privacyCommerciale": 1,
 			"privacyTelefono": 1,
 			"privacyEmailSMS": 1,
-			"fea": false
+			"fea": false,
+			"numeroFigli": 8
 		},
 		"nucleoFamiliare": {
 			"codiceStatoCivile": "02",

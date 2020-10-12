@@ -1,6 +1,6 @@
 {
 	"0": {
-		"anagrafica": [{
+		"anagrafica": {
 			"id": 7330823,
 			"nome": "Pinco",
 			"cognome": "Pallino",
@@ -19,7 +19,7 @@
 			},
 			"professione": {},
 			"nucleoFamiliare": {}
-		}],
+		},
 		"datiAgenzia": [{}],
 		"consensi": [{
 			"privacyCommerciale": 997,

@@ -25,7 +25,8 @@
 			"privacyCommerciale": 997,
 			"privacyTelefono": 997,
 			"privacyEmailSMS": 997,
-			"fea": false
+			"fea": false,
+			"numeroFigli": 8
 		},
 		"documento": {},
 		"campagna": {},

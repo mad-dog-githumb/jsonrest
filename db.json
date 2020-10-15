@@ -5,11 +5,11 @@
 			"nome": "PINCO",
 			"cognome": "PALLINO",
 			"dataNascita": -374979600000,
-			"codiceFiscale": "DGTRFL58B53E810W",
-			"codiceSesso": "F",
+			"codiceFiscale": "PLLPNC58E06E810W",
+			"codiceSesso": "M",
 			"telefonoCellulare": "",
 			"telefonoFisso": "589576",
-			"email": "r.adigetti@gmail.com",
+			"email": "pinco.pallino@gmail.com",
 			"residenza": {
 				"descrizioneVia": "VIA ALBERTO LA ROCCA 47",
 				"numeroCivico": "",
@@ -64,6 +64,70 @@
 			"privacyCommerciale": 1,
 			"privacyTelefono": 1,
 			"privacyEmailSMS": 1,
+			"fea": false
+		},
+		"documento": {},
+		"campagna": {},
+		"simulatori": {}
+	},
+	"3":{
+		"anagrafica": {
+			"id": 7330823,
+			"nome": "TIZIO",
+			"cognome": "PALLINO",
+			"dataNascita": -374979600000,
+			"codiceFiscale": "PLLTZO58E28E810W",
+			"codiceSesso": "M",
+			"telefonoCellulare": "",
+			"telefonoFisso": "589576",
+			"email": "tizio.pallino@gmail.com",
+			"residenza": {
+				"descrizioneVia": "VIA ALBERTO LA ROCCA 47",
+				"numeroCivico": "",
+				"descrizioneComune": "MAGLIANO IN TOSCANA",
+				"siglaProvincia": "GR",
+				"codiceCAP": 58051
+			},
+			"professione": {},
+			"nucleoFamiliare": {}
+		},
+		"datiAgenzia": {},
+		"consensi": {
+			"privacyCommerciale": 997,
+			"privacyTelefono": 997,
+			"privacyEmailSMS": 997,
+			"fea": false
+		},
+		"documento": {},
+		"campagna": {},
+		"simulatori": {}
+	},
+	"4":{
+		"anagrafica": {
+			"id": 7330823,
+			"nome": "CAIO",
+			"cognome": "PALLINO",
+			"dataNascita": -374979600000,
+			"codiceFiscale": "PLLCAI58E15E810W",
+			"codiceSesso": "M",
+			"telefonoCellulare": "",
+			"telefonoFisso": "589576",
+			"email": "tizio.pallino@gmail.com",
+			"residenza": {
+				"descrizioneVia": "VIA ALBERTO LA ROCCA 47",
+				"numeroCivico": "",
+				"descrizioneComune": "MAGLIANO IN TOSCANA",
+				"siglaProvincia": "GR",
+				"codiceCAP": 58051
+			},
+			"professione": {},
+			"nucleoFamiliare": {}
+		},
+		"datiAgenzia": {},
+		"consensi": {
+			"privacyCommerciale": 997,
+			"privacyTelefono": 997,
+			"privacyEmailSMS": 997,
 			"fea": false
 		},
 		"documento": {},
